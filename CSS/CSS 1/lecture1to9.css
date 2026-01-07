@@ -1,0 +1,40 @@
+/* h1 {
+    color: brown;
+    background-color: aqua;
+}
+
+p {
+    color: royalblue;
+    background-color: bisque;
+}
+
+button {
+    color: gold;
+    background-color: black;
+} */
+
+h3 {
+    color: rgb(255,0,0);
+    /* rgb style */
+}
+p {
+    color: white;
+    background-color: #000000;
+    /*hexadecimal style*/
+}
+button {
+    color: white;
+    background-color: #0f0;
+}
+h1 {
+    color: rgb(255,255,255);
+    background-color: rgb(13, 159, 244);
+}
+
+h2 {
+    /* color: rgb(237, 158, 30); */
+    color: #ffff00
+}
+h4{
+    color: rgb(39, 150, 229);
+}
