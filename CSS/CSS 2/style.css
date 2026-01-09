@@ -1,0 +1,30 @@
+/* Selector */
+/* Basic format of CSS */
+/* h1{
+    color: blue;
+} */
+
+/* Universal Selector: to Select everything in a document */
+*{
+    font-family: 'Courier New';
+}
+
+/* Element Selector: to select a particular element */
+h1,h3{
+    color: #b92b27;
+}
+
+/* ID Selector */
+#login{
+    background-color: white;
+}
+#signup{
+    color: white;
+    background-color:#b92b27 ;
+}
+
+/* Class Selector : Selects an element based on their class attribute */
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
